@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+scan_history.csv
+reports/
+
+phishguard_v*_backup.py
+
+.vscode/
+.idea/
+phishguard_v*_backup*.py
